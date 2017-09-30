@@ -1,10 +1,10 @@
 {
     "name": "Zach.MyTheme",
     "title": "Turquoise theme",
-    "description": "This theme is so shiny that you'll need to wear shades!",
-    "homepage": "https://github.com/yourname/my-shiny-theme",
+    "description": "My personnal theme",
+    "homepage": "https://github.com/CustomGem/bracketsTheme",
     "version": "1.0.0",
-    "author": "Zach <zaool@live.ca> (http://your.url)",
+    "author": "Zach <zaool@live.ca>",
     "license": "MIT",
     "theme": {
         "file": "theme.less",
